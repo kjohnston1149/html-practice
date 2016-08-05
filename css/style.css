@@ -1,0 +1,18 @@
+h1 {
+  font-size: 50px;
+  font-family: fantasy;
+  text-align: center;
+  }
+
+h2 {
+  font-size: 35px;
+  font-family: helvetica;
+  /*text-decoration: line-through;*/
+  }
+
+body {
+  background-color: lavender;
+  }
+a:visited {
+  color: black;
+}
